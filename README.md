@@ -24,11 +24,10 @@ To create a QR code design as below using the provided images, HTML code structu
 ![project-output](desktop-design.jpg)
 
 ## Codes Snapshots
-
+ - *HTML :*  
 ![HTML-screenshot](HTML_screenshot.PNG)
-
+ - *CSS :*  
 ![CSS-screenshot](CSS_screenshot.PNG)
-
 ## Solution Link
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
